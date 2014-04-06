@@ -22,7 +22,7 @@ class WebDB:
         # Connect to an existing database
         connParams = {}
         connParams["UID"] = "calswim"
-        connParams["PWD"] = "calswim2012"
+        connParams["PWD"] = "xxx" 
         connParams["HOST"] = "localhost"
         connParams["PORT"] = 3306
         connParams["DSN"] = "calswim"        
